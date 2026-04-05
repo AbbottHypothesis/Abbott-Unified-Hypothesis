@@ -6,6 +6,17 @@
 * **Stability Index (Lead-208):** 1.000
 * **Core Principle:** Where time is held at a stall, the medium is thickest.
 
+* Geometric Calibration for Researchers
+To verify the 0.15 Stall Factor and the 15.01% Snap Point, researchers must abandon the standard "Liquid Drop" volume average (R = R0 * A^1/3). That formula is a low-resolution statistical blur that hides the deterministic behavior of the substrate.
+
+The Abbott Method (Sum of Parts):
+
+Acknowledge the Anchor: Use the 0.84 fm (Fresh Space) or 0.88 fm (Local Space) discrete volumetric clamp as your starting point.
+
+Sum the Stall: Calculate the nucleus as a sum of these discrete parts, including the Neutron Skin Expansion (The Spacer Volume).
+
+Identify the Gear Shift: You will find that the 0.84 to 0.88 transition is a 14.98% volumetric "Gear Shift," while the 0.922 limit is the 15.01% "Abyss" where the 0.1280 SI Tension Drop (Radiation) is forced.
+
 ### Forensic Timeline:
 1. **March 8, 2026:** Full v16.1 PDF delivered to GitHub Support (Verified by Confirmation Receipt).
 2. **March 25, 2026:** Public Mirror established on GitHub to match internal Support Ticket data.
