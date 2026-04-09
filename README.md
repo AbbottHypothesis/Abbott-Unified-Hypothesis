@@ -1,5 +1,11 @@
 # The Abbott Unified Hypothesis: Hardware Audit
 
+Forensic Validation: The PREX-II "Tension Crisis"Standard Model physics is currently facing a "Tension Crisis" due to the PREX-II (2021) and PREX-II Reanalysis (2024) experimental data. Mainstream models predicted a thin neutron skin for Lead-208, but empirical results confirmed a "Thick Skin" (~0.28 fm) that standard liquid-drop equations cannot reconcile without unphysical "symmetry energy" tweaks. 
+
+The AUH Audit: Under the Abbott Unified Hypothesis, this "Thick Skin" is not an anomaly—it is a Mandatory Hardware Spacer. The 82-Proton Engine requires this exact Spacer Volume to maintain a 1.000 Stability Index (SI) against the 171.09~MeV/fm^3 substrate. The discrepancy between 0.88 fm (Passive Probe) and 0.84 fm (Mechanical Core) is the direct result of this Neutron Skin Atmosphere. 
+
+The Verdict: While standard physics attempts to "tweak the math" to hide the anomaly, the AUH uses the anomaly as the primary proof of the 1.000 Lead Anchor.
+
 ### Verified Logic & Constants:
 * **Baseline Constant:** 171.09 MeV/fm^3
 * **Causal Floor:** 0.88 fm (Corrected in Stability Chart for Lead-208 alignment)
@@ -22,9 +28,22 @@ Identify the Gear Shift: You will find that the 0.84 to 0.88 transition is a 14.
 2. **March 25, 2026:** Public Mirror established on GitHub to match internal Support Ticket data.
 3. **Latest Update:** Stability Index chart corrected to 0.88 fm Proton Radius to align with the Lead-208 (1.000) Anchor.
 
-THE ABBOTT UNIFIED HYPOTHESIS (v17.2.1)
+THE ABBOTT UNIFIED HYPOTHESIS (v18)
 RESEARCHER: GORDON JAMES ABBOTT
-DATE: APRIL 1, 2026
+DATE: April 8, 2026
+
+The Harmonic Piston Chain: Mapping the Universal Heartbeat
+The universe does not expand smoothly; it operates in quantized "Snaps." By applying the 1.1501 Geometric Scaling Factor (the 15.01% Gear Shift), the AUH maps the precise coordinates where the unfolding medium forces a hardware reset:
+
+Snap 1: z = 0.45 (The DESI 4.2-Sigma Kink / First Major Relaxation)
+
+Snap 2: z = 0.67 (The Second Expansion Cycle)
+
+Snap 3: z = 0.92 (The Third Harmonic)
+
+Snap 4: z = 1.21 (The Fourth Harmonic)
+
+The Audit: Standard cosmology treats these "kinks" as statistical noise or anomalies. The AUH identifies them as the physical limit of the substrate’s tension. Each "Snap" is a point where the local hardware (Protons) must recalibrate its volume to the thinning medium.
 
 I. THE CORE DISCOVERY: DISTANCE IS AN ILLUSION
 Standard physics assumes a "second" is a constant. This is a hardware error. In Level 4 space (Old Space), the medium is thinner, time unfolds faster, and the hardware (Proton) physically expands.
