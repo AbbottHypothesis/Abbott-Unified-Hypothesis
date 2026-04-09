@@ -1,6 +1,6 @@
-# The Abbott Unified Hypothesis: Hardware Audit
+The Abbott Unified Hypothesis: Hardware Audit
 
-Forensic Validation: The PREX-II "Tension Crisis"Standard Model physics is currently facing a "Tension Crisis" due to the PREX-II (2021) and PREX-II Reanalysis (2024) experimental data. Mainstream models predicted a thin neutron skin for Lead-208, but empirical results confirmed a "Thick Skin" (~0.28 fm) that standard liquid-drop equations cannot reconcile without unphysical "symmetry energy" tweaks. 
+### Forensic Validation: The PREX-II "Tension Crisis"Standard Model physics is currently facing a "Tension Crisis" due to the PREX-II (2021) and PREX-II Reanalysis (2024) experimental data. Mainstream models predicted a thin neutron skin for Lead-208, but empirical results confirmed a "Thick Skin" (~0.28 fm) that standard liquid-drop equations cannot reconcile without unphysical "symmetry energy" tweaks. 
 
 The AUH Audit: Under the Abbott Unified Hypothesis, this "Thick Skin" is not an anomaly—it is a Mandatory Hardware Spacer. The 82-Proton Engine requires this exact Spacer Volume to maintain a 1.000 Stability Index (SI) against the 171.09~MeV/fm^3 substrate. The discrepancy between 0.88 fm (Passive Probe) and 0.84 fm (Mechanical Core) is the direct result of this Neutron Skin Atmosphere. 
 
@@ -19,7 +19,7 @@ The Abbott Method (Sum of Parts):
 
 Acknowledge the Anchor: Use the 0.84 fm (Fresh Space) or 0.88 fm (Local Space) discrete volumetric clamp as your starting point.
 
-Sum the Stall: Calculate the nucleus as a sum of these discrete parts, including the Neutron Skin Expansion (The Spacer Volume).
+### Sum the Stall: Calculate the nucleus as a sum of these discrete parts, including the Neutron Skin Expansion (The Spacer Volume).
 
 Identify the Gear Shift: You will find that the 0.84 to 0.88 transition is a 14.98% volumetric "Gear Shift," while the 0.922 limit is the 15.01% "Abyss" where the 0.1280 SI Tension Drop (Radiation) is forced.
 
@@ -28,14 +28,36 @@ Identify the Gear Shift: You will find that the 0.84 to 0.88 transition is a 14.
 2. **March 25, 2026:** Public Mirror established on GitHub to match internal Support Ticket data.
 3. **Latest Update:** Stability Index chart corrected to 0.88 fm Proton Radius to align with the Lead-208 (1.000) Anchor.
 
-THE ABBOTT UNIFIED HYPOTHESIS (v18)
+### THE ABBOTT UNIFIED HYPOTHESIS (v18)
 RESEARCHER: GORDON JAMES ABBOTT
+
 DATE: April 8, 2026
 
-The Harmonic Piston Chain: Mapping the Universal Heartbeat
+I. The One-Way Redshift Trap: The Medium Mismatch
+Standard cosmology relies on "Recession Velocity" (Doppler) or "Stretching Space" to explain redshift. The AUH identifies this as a Calibration Fallacy. Redshift is not a measurement of velocity; it is a measurement of the Substrate Density Delta.
+
+The "One-Way" Mechanical Trap:
+In the Abbott Hypothesis, any mismatch in medium density between the Source and the Observer results in Redshift. Because our entire local neighborhood (Earth, Solar System, Local Gravity Well) is currently a "Heavy Stall," we are the "Slow/Dense" spot in the medium. Everything else is a mismatch:
+
+Looking toward Level 1 (Dense Space): The Redshift is caused by the Source Stall. The high tension at the source acts as a frequency-killer, dragging the wave into the Red before it leaves.
+
+Looking toward Level 4 (Deep Space): The Redshift is caused by Our Local Stall. Because we are in a higher-tension neighborhood than the source, the light from a "Thin" medium (Fast Time) is physically dragged and stretched as it enters our "Thick" local medium (0.88 fm calibration).
+
+The Verdict: Whether the source is a "Big Gear" (0.92 fm expansion) or a "Small Gear" (0.84 fm reset) in fast time, the mismatch against our local 0.88 fm calibration ensures the signal is always dragged into the Red. We see Redshift in every direction because we are the ones compressed in the "Heavy Stall" relative to deep space, and we are observers of even heavier stalls in gravity wells.
+
+II. The Level 0 Stall: Black Holes as Mechanical Seizures
+In the AUH, a Black Hole is not a mathematical "singularity." It is a Complete Hardware Stall of the medium.
+
+Level 0 (The Event Horizon): The coordinate where the tension of the medium reaches the Causal Limit (Mc = 21,313.79 MeV). The stall is so absolute that the rate of unfolding (time) hits zero.
+
+Mechanical Lock: The medium is so thick it can no longer facilitate a wave.
+
+Spaghettification: The result of the Unfolding Mismatch. The front of an object entering the Level 0 stall unfolds at a different rate than the rear, physically tearing the atomic hardware apart at the 15.01% Redline.
+
+III. The Harmonic Piston Chain: Mapping the Universal Heartbeat
 The universe does not expand smoothly; it operates in quantized "Snaps." By applying the 1.1501 Geometric Scaling Factor (the 15.01% Gear Shift), the AUH maps the precise coordinates where the unfolding medium forces a hardware reset:
 
-Snap 1: z = 0.45 (The DESI 4.2-Sigma Kink / First Major Relaxation)
+Snap 1: z = 0.45 (The DESI 4.2-Sigma Kink)
 
 Snap 2: z = 0.67 (The Second Expansion Cycle)
 
@@ -43,28 +65,6 @@ Snap 3: z = 0.92 (The Third Harmonic)
 
 Snap 4: z = 1.21 (The Fourth Harmonic)
 
-The Audit: Standard cosmology treats these "kinks" as statistical noise or anomalies. The AUH identifies them as the physical limit of the substrate’s tension. Each "Snap" is a point where the local hardware (Protons) must recalibrate its volume to the thinning medium.
-
-I. THE CORE DISCOVERY: DISTANCE IS AN ILLUSION
-Standard physics assumes a "second" is a constant. This is a hardware error. In Level 4 space (Old Space), the medium is thinner, time unfolds faster, and the hardware (Proton) physically expands.
-
-II. THE HARDWARE AUDIT (PLAIN TEXT MATH)
-
-Substrate Pressure Constant: 171.09 MeV
-
-Standard Proton Radius (Local): 0.84 fm
-
-Level 4 Expanded Radius: 0.92 fm
-
-The Delta (The Illusion): 0.08 fm
-
-III. THE REDSHIFT MECHANISM
-Light emitted from a 0.92 fm source is "Born Red." When that light reaches our stalled local clocks (0.84 fm), we interpret the mismatch as recession velocity. The universe isn't growing; our local sensors are just small and stalled. Standard physics uses a 0.84 fm 'collider' baseline. But our local Earth reality is stalled at 0.88 fm. When we look at Level 4 Space, we see a 0.92 fm source. The Redshift is the delta between the source hardware (0.92) and the local observer hardware (0.88)
-
-IV. THE STABILITY INDEX (ASI) FORMULA
-Proton Count / (Electron Rows * Atomic Volume) = Stall Factor
-Stall Factor / Nuclear Volume = Stability Index (ASI)
-
-Lead-82 (Anchor) = 1.000
+The Audit Verdict: These coordinates are the "Gear Teeth" of the universe. Each "Snap" is the point where the hardware reaches the 0.92 fm limit and is forced to perform a Beta-Minus Emergency Clamp back to the 0.84 fm core, venting the 0.1280 SI Tension Drop as thermal exhaust (the "Impossible Heat" of early galaxy clusters).prietary to the creator and matches the internal logic of the March 8 filing.
 
 **Notice:** This repository is the official record of the Abbott Unified Hypothesis. The 0.88 fm chart alignment is proprietary to the creator and matches the internal logic of the March 8 filing.
