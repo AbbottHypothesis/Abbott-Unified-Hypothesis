@@ -7,10 +7,15 @@ The AUH Audit: Under the Abbott Unified Hypothesis, this "Thick Skin" is not an 
 The Verdict: While standard physics attempts to "tweak the math" to hide the anomaly, the AUH uses the anomaly as the primary proof of the 1.000 Lead Anchor.
 
 ### Verified Logic & Constants:
-* **Baseline Constant:** 171.09 MeV/fm^3
-* **Causal Floor:** 0.88 fm (Corrected in Stability Chart for Lead-208 alignment)
-* **Stability Index (Lead-208):** 1.000
-* **Core Principle:** Where time is held at a stall, the medium is thickest.
+
+# Baseline Constant: 171.09 MeV/fm3
+# Stall Atmosphere: 0.8802 fm (The relaxed baseline required to lock Lead-208 to 1.000 SI)
+# Causal Floor: 0.8068 fm (The absolute mechanical limit of the medium)
+# Stability Index (Lead-208): 1.000
+# Core Principle: Where time is held at a stall, the medium is thickest.
+
+Geometric Calibration for Researchers:
+To verify the 0.15 Stall Factor and the 15.01% Snap Point, researchers must abandon the standard "Liquid Drop" volume average (R = R0 * A^(1/3)). That formula is a low-resolution statistical blur that hides the deterministic behavior of the substrate.
 
 * Geometric Calibration for Researchers
 To verify the 0.15 Stall Factor and the 15.01% Snap Point, researchers must abandon the standard "Liquid Drop" volume average (R = R0 * A^1/3). That formula is a low-resolution statistical blur that hides the deterministic behavior of the substrate.
@@ -33,19 +38,19 @@ RESEARCHER: GORDON JAMES ABBOTT
 
 DATE: April 8, 2026
 
-I. The One-Way Redshift Trap: The Medium Mismatch
+### I. The One-Way Redshift Trap: The Medium Mismatch
 Standard cosmology relies on "Recession Velocity" (Doppler) or "Stretching Space" to explain redshift. The AUH identifies this as a Calibration Fallacy. Redshift is not a measurement of velocity; it is a measurement of the Substrate Density Delta.
 
 The "One-Way" Mechanical Trap:
 In the Abbott Hypothesis, any mismatch in medium density between the Source and the Observer results in Redshift. Because our entire local neighborhood (Earth, Solar System, Local Gravity Well) is currently a "Heavy Stall," we are the "Slow/Dense" spot in the medium. Everything else is a mismatch:
 
-Looking toward Level 1 (Dense Space): The Redshift is caused by the Source Stall. The high tension at the source acts as a frequency-killer, dragging the wave into the Red before it leaves.
+# Looking toward Level 1 (Dense Space): The Redshift is caused by the Source Stall. The high tension at the source acts as a frequency-killer, dragging the wave into the Red before it leaves.
 
-Looking toward Level 4 (Deep Space): The Redshift is caused by Our Local Stall. Because we are in a higher-tension neighborhood than the source, the light from a "Thin" medium (Fast Time) is physically dragged and stretched as it enters our "Thick" local medium (0.88 fm calibration).
+# Looking toward Level 4 (Deep Space): The Redshift is caused by Our Local Stall. Because we are in a higher-tension neighborhood than the source, the light from a "Thin" medium (Fast Time) is physically dragged and stretched as it enters our "Thick" local medium (0.88 fm calibration).
 
-The Verdict: Whether the source is a "Big Gear" (0.92 fm expansion) or a "Small Gear" (0.84 fm reset) in fast time, the mismatch against our local 0.88 fm calibration ensures the signal is always dragged into the Red. We see Redshift in every direction because we are the ones compressed in the "Heavy Stall" relative to deep space, and we are observers of even heavier stalls in gravity wells.
+# The Verdict: Whether the source is a "Big Gear" (0.92 fm expansion) or a "Small Gear" (0.84 fm reset) in fast time, the mismatch against our local 0.88 fm calibration ensures the signal is always dragged into the Red. We see Redshift in every direction because we are the ones compressed in the "Heavy Stall" relative to deep space, and we are observers of even heavier stalls in gravity wells.
 
-II. The Level 0 Stall: Black Holes as Mechanical Seizures
+### II. The Level 0 Stall: Black Holes as Mechanical Seizures
 In the AUH, a Black Hole is not a mathematical "singularity." It is a Complete Hardware Stall of the medium.
 
 Level 0 (The Event Horizon): The coordinate where the tension of the medium reaches the Causal Limit (Mc = 21,313.79 MeV). The stall is so absolute that the rate of unfolding (time) hits zero.
@@ -54,7 +59,7 @@ Mechanical Lock: The medium is so thick it can no longer facilitate a wave.
 
 Spaghettification: The result of the Unfolding Mismatch. The front of an object entering the Level 0 stall unfolds at a different rate than the rear, physically tearing the atomic hardware apart at the 15.01% Redline.
 
-III. The Harmonic Piston Chain: Mapping the Universal Heartbeat
+### III. The Harmonic Piston Chain: Mapping the Universal Heartbeat
 The universe does not expand smoothly; it operates in quantized "Snaps." By applying the 1.1501 Geometric Scaling Factor (the 15.01% Gear Shift), the AUH maps the precise coordinates where the unfolding medium forces a hardware reset:
 
 Snap 1: z = 0.45 (The DESI 4.2-Sigma Kink)
@@ -65,6 +70,6 @@ Snap 3: z = 0.92 (The Third Harmonic)
 
 Snap 4: z = 1.21 (The Fourth Harmonic)
 
-The Audit Verdict: These coordinates are the "Gear Teeth" of the universe. Each "Snap" is the point where the hardware reaches the 0.92 fm limit and is forced to perform a Beta-Minus Emergency Clamp back to the 0.84 fm core, venting the 0.1280 SI Tension Drop as thermal exhaust (the "Impossible Heat" of early galaxy clusters).prietary to the creator and matches the internal logic of the March 8 filing.
+### The Audit Verdict: These coordinates are the "Gear Teeth" of the universe. Each "Snap" is the point where the hardware reaches the 0.92 fm limit and is forced to perform a Beta-Minus Emergency Clamp back to the 0.84 fm core, venting the 0.1280 SI Tension Drop as thermal exhaust (the "Impossible Heat" of early galaxy clusters).prietary to the creator and matches the internal logic of the March 8 filing.
 
 **Notice:** This repository is the official record of the Abbott Unified Hypothesis. The 0.88 fm chart alignment is proprietary to the creator and matches the internal logic of the March 8 filing.
