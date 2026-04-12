@@ -1,5 +1,5 @@
-##The Abbott Unified Hypothesis v19
-#THE HARDWARE AUDIT OF THE PRIMARY ENGINE
+## The Abbott Unified Hypothesis v19
+# THE HARDWARE AUDIT OF THE PRIMARY ENGINE
 
 [WATCH] Forensic Audit v19: The 0.84 fm Mechanical Core
 
