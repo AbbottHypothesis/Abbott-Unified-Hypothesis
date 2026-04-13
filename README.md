@@ -7,6 +7,18 @@
 
 The 21,313.79 MeV constant is the hard-stop for the substrate's Emergent Rate of unfolding. Time is a mechanical output of local pressure.
 
+# Hardware Calibration & Proof of Constants
+
+# The Causal Limit (Mc = 21,313.79 MeV) and the Substrate Density (171.09 MeV/fm^3) are the primary benchmarks for the v19 model. Their mechanical derivations are documented in the Planck-Mc1.pdf located in this repository.
+
+Key Calibrations:
+
+Mc (21,313.79 MeV): The universal Planck tension scaled to the localized 0.8802 fm proton footprint.
+
+Density (171.09 MeV/fm^3): The ambient pressure of the substrate, derived from the energy equivalent of nuclear saturation.
+
+By documenting the link between the Universal Planck Ceiling and these Local Hardware Specs, the AUH provides a traceable path for the math. When these values are applied to the Stability Index, Lead-208 resolves to exactly 1.000, verifying the model's accuracy against the universe's most stable anchor.
+
 
 Forensic Validation: The PREX-II "Tension Crisis"
 Standard Model physics is currently facing a "Tension Crisis" due to the PREX-II (2021) and PREX-II Reanalysis (2024) experimental data. Mainstream models predicted a thin neutron skin for Lead-208, but empirical results confirmed a "Thick Skin" (~0.28 fm) that standard liquid-drop equations cannot reconcile without unphysical "symmetry energy" tweaks.
