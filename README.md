@@ -5,6 +5,50 @@
 
 [![Abbott Unified Hypothesis v19 Audit](https://img.youtube.com/vi/vzGuG_ZCMA4/0.jpg)](https://www.youtube.com/watch?v=vzGuG_ZCMA4 "Forensic Audit v19")
 
+THE HARDWARE AUDIT: MASTER SPECIFICATION (V19.1)
+This section provides the deterministic mechanical engine of the Abbott Unified Hypothesis. Use these formulas to audit the stability of any element without the need for probabilistic "software patches."
+
+The Distinction: Hardware vs. Software
+V (Molar Volume): The "Software" value. Measured in labs; the result of electronic bonding.
+
+Vd (Effective Displacement Volume): The "Hardware" value. The specific volume of the medium the atom must displace based on the mechanical gear ratio.
+
+Stability occurs only where the Hardware (Vd) and the Software (V) are in equilibrium.
+
+The Universal Formulas
+1. The Gear Ratio (Calculating Vd):
+Displacement is derived from "Proton Torque" vs. "Scaffolding Reset," anchored to Lead-208.
+Vd = (82 / Z) * (S / 6) * 18.26
+
+82 / Z: Proton Torque (Nucleus tightening its grip).
+
+S / 6: Scaffolding Reset (Row redistribution of tension).
+
+18.26: The Lead-208 Baseline (The Universal Anchor).
+
+2. The Stall Number (Substrate Stress):
+Stall Number = (Z / (S * Vd)) * 488.46
+
+488.46: Substrate Normalization Constant (k). This is the Local Stall Energy (in MeV) derived from the 0.88 fm proton footprint.
+Note on k (488.46): This is the Local Stall Energy of the medium. It is derived by multiplying the local substrate density (171.09 MeV/fm³) by the volumetric displacement of a single proton at the 0.88 fm redline (2.855 fm³). It represents the base hardware energy required to "clamp" the medium.
+
+3. The Stability Index (ASI):
+ASI = Stall Number / Vn
+
+Vn: Nuclear Volume (in fm³).
+
+The Mechanical Diagnostic (Rule of 1)
+ASI = 1.000 (Static Lock): Perfect hardware equilibrium.
+
+ASI < 0.88 (Leak Zone): Low tension; high volatility/fusion potential.
+
+ASI > 1.03 (Fracture Zone): Tension exceeds the Causal Limit (Mc = 21,313.79 MeV). The medium must fracture (Radioactive Decay).
+
+Checkmate: The "No Island" Prediction
+As Z increases within Row 7, the substrate torque forces Vd down until the tension physically snaps.
+
+Oganesson-118 (ASI = 1.071): Mechanically forced into the Fracture Zone. The "Island of Stability" is a mechanical impossibility; the hardware tension limit simply cannot be held.
+
 The 21,313.79 MeV constant is the hard-stop for the substrate's Emergent Rate of unfolding. Time is a mechanical output of local pressure.
 
 # Hardware Calibration & Proof of Constants
