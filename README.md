@@ -1,11 +1,17 @@
-## The Abbott Unified Hypothesis v19
+The Abbott Unified Hypothesis v19
 # THE HARDWARE AUDIT OF THE PRIMARY ENGINE
-
 [WATCH] Forensic Audit v19: The 0.84 fm Mechanical Core
 
 [![Abbott Unified Hypothesis v19 Audit](https://img.youtube.com/vi/vzGuG_ZCMA4/0.jpg)](https://www.youtube.com/watch?v=vzGuG_ZCMA4 "Forensic Audit v19")
 
-THE HARDWARE AUDIT: MASTER SPECIFICATION (V19.1)
+⚠️ ARCHITECTURAL UPDATE: v19.1 MASTER SPECIFICATION
+Effective Date: April 2026
+
+The obsolete, fragmented Planck derivation files have been permanently extracted from the v19 Release package and the root repository. They have been officially superseded by the AUH_v19.1_Master_Specification.pdf.
+
+This master document unifies the 1.000 SI Lead Anchor, the 171.09 MeV/fm³ Substrate Baseline, and the 488.46 MeV Stall Energy into a single, closed-loop engine architecture. It also includes the independent algorithmic synthesis confirming the AUH's deterministic superiority over the Standard Model. All future audits must use the v19.1 Master Specification.
+
+THE HARDWARE AUDIT: MASTER SPECIFICATION (v19.1)
 This section provides the deterministic mechanical engine of the Abbott Unified Hypothesis. Use these formulas to audit the stability of any element without the need for probabilistic "software patches."
 
 The Distinction: Hardware vs. Software
@@ -29,7 +35,8 @@ S / 6: Scaffolding Reset (Row redistribution of tension).
 2. The Stall Number (Substrate Stress):
 Stall Number = (Z / (S * Vd)) * 488.46
 
-488.46: Substrate Normalization Constant (k). This is the Local Stall Energy (in MeV) derived from the 0.88 fm proton footprint.
+488.46: Substrate Normalization Constant (k).
+
 Note on k (488.46): This is the Local Stall Energy of the medium. It is derived by multiplying the local substrate density (171.09 MeV/fm³) by the volumetric displacement of a single proton at the 0.88 fm redline (2.855 fm³). It represents the base hardware energy required to "clamp" the medium.
 
 3. The Stability Index (ASI):
@@ -51,23 +58,21 @@ Oganesson-118 (ASI = 1.071): Mechanically forced into the Fracture Zone. The "Is
 
 The 21,313.79 MeV constant is the hard-stop for the substrate's Emergent Rate of unfolding. Time is a mechanical output of local pressure.
 
-# Hardware Calibration & Proof of Constants
-
-# The Causal Limit (Mc = 21,313.79 MeV) and the Substrate Density (171.09 MeV/fm^3) are the primary benchmarks for the v19 model. Their mechanical derivations are documented in the Planck-Mc1.pdf located in this repository.
+Hardware Calibration & Proof of Constants
+The Causal Limit (Mc = 21,313.79 MeV) and the Substrate Density (171.09 MeV/fm³) are the primary benchmarks for the v19 model. Their exact mechanical derivations are now fully integrated into the AUH_v19.1_Master_Specification.pdf located in this repository.
 
 Key Calibrations:
 
 Mc (21,313.79 MeV): The universal Planck tension scaled to the localized 0.8802 fm proton footprint.
 
-Density (171.09 MeV/fm^3): The ambient pressure of the substrate, derived from the energy equivalent of nuclear saturation.
+Density (171.09 MeV/fm³): The ambient pressure of the substrate, derived from the energy equivalent of nuclear saturation.
 
 By documenting the link between the Universal Planck Ceiling and these Local Hardware Specs, the AUH provides a traceable path for the math. When these values are applied to the Stability Index, Lead-208 resolves to exactly 1.000, verifying the model's accuracy against the universe's most stable anchor.
-
 
 Forensic Validation: The PREX-II "Tension Crisis"
 Standard Model physics is currently facing a "Tension Crisis" due to the PREX-II (2021) and PREX-II Reanalysis (2024) experimental data. Mainstream models predicted a thin neutron skin for Lead-208, but empirical results confirmed a "Thick Skin" (~0.28 fm) that standard liquid-drop equations cannot reconcile without unphysical "symmetry energy" tweaks.
 
-The AUH Audit: Under the Abbott Unified Hypothesis, this "Thick Skin" is not an anomaly—it is a Mandatory Hardware Spacer. The 82-Proton Engine requires this exact Spacer Volume to maintain a 1.000 Stability Index (SI) against the 171.09 MeV/fm^3 substrate. The discrepancy between 0.88 fm (Passive Probe) and 0.84 fm (Mechanical Core) is the direct result of this Neutron Skin Atmosphere.
+The AUH Audit: Under the Abbott Unified Hypothesis, this "Thick Skin" is not an anomaly—it is a Mandatory Hardware Spacer. The 82-Proton Engine requires this exact Spacer Volume to maintain a 1.000 Stability Index (SI) against the 171.09 MeV/fm³ substrate. The discrepancy between 0.88 fm (Passive Probe) and 0.84 fm (Mechanical Core) is the direct result of this Neutron Skin Atmosphere.
 
 The Verdict: While standard physics attempts to "tweak the math" to hide the anomaly, the AUH uses the anomaly as the primary proof of the 1.000 Lead Anchor.
 
@@ -81,10 +86,11 @@ Atomic volume is never added to redshift; the engine relies on the coordinate ve
 
 2. The Abyss Gear Shorthand (The 15.01% Redline)
 For exact geometric calculations of the 15.01% Universal Gear Ratio, the strict unrounded coordinate of 0.922 fm must be used.
-The Proof: 0.922 / 0.88 = 1.0477 (Radius Expansion Multiplier). Because volume is cubed, 1.0477^3 = 1.1501. This yields the exact 15.01% Volumetric Expansion required to trigger the Beta-Minus Emergency Clamp.
+The Proof: 0.922 / 0.88 = 1.0477 (Radius Expansion Multiplier). Because volume is cubed, 1.0477³ = 1.1501. This yields the exact 15.01% Volumetric Expansion required to trigger the Beta-Minus Emergency Clamp.
 
 Verified Logic & Constants:
-Baseline Constant: 171.09 MeV/fm^3
+
+Baseline Constant: 171.09 MeV/fm³
 
 Stall Atmosphere: 0.8802 fm (The relaxed baseline required to lock Lead-208 to 1.000 SI)
 
@@ -140,15 +146,16 @@ Snap 4: z = 1.21 (The Fourth Harmonic)
 The Audit Verdict: These coordinates are the "Gear Teeth" of the universe. Each "Snap" is the point where the hardware reaches the 0.922 fm limit and is forced to perform a Beta-Minus Emergency Clamp back to the 0.84 fm core, venting the 0.1280 SI Tension Drop as thermal exhaust (the "Impossible Heat" of early galaxy clusters).
 
 Forensic Timeline & Archival Data:
-
 March 8, 2026: Full v16.1 PDF delivered to GitHub Support (Verified by Confirmation Receipt).
 
 March 25, 2026: Public Mirror established on GitHub to match internal Support Ticket data.
 
 April 12, 2026: The v19 Architectural Recalibration Deployed.
 
+April 2026: The v19.1 Master Specification Deployed.
+
 Notice: This repository is the official record of the Abbott Unified Hypothesis. The 0.88 fm chart alignment is proprietary to the creator and matches the internal logic of the March 8 filing.
 
-THE ABBOTT UNIFIED HYPOTHESIS (v19)
+THE ABBOTT UNIFIED HYPOTHESIS (v19.1)
 LEAD RESEARCHER: GORDON JAMES ABBOTT
-DATE: April 12, 2026
+DATE: April 2026
