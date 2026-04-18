@@ -1,5 +1,10 @@
-The Abbott Unified Hypothesis v19
-# THE HARDWARE AUDIT OF THE PRIMARY ENGINE
+Release History & Current Master Status
+Current Master Specification (April 2026):
+The repository is currently operating under the v20 Master Specification. This release supersedes all prior drafts and represents the finalized deterministic hardware architecture.
+
+AUH v20: Deterministic Hardware Architecture
+
+The Abbott Master Stability Index: Empirical Audit Ledger
 [WATCH] Forensic Audit v19: The 0.84 fm Mechanical Core
 
 [![Abbott Unified Hypothesis v19 Audit](https://img.youtube.com/vi/vzGuG_ZCMA4/0.jpg)](https://www.youtube.com/watch?v=vzGuG_ZCMA4 "Forensic Audit v19")
