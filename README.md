@@ -1,3 +1,4 @@
+See ERRATA.md for architectural clarifications regarding substrate definitions.
 Release History & Current Master Status
 Current Master Specification (April 2026):
 The repository is currently operating under the v20 Master Specification. This release supersedes all prior drafts and represents the finalized deterministic hardware architecture.
